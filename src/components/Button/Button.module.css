@@ -1,0 +1,29 @@
+.primary_btn{
+    cursor: pointer;
+    padding: 18px 10px;
+    background-color: #000;
+    color: #fff;
+    min-width: 220px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-style: 16px;
+    justify-content: center;
+}
+.secondary_btn{
+    cursor: pointer;
+    color: #000;
+    background-color: #fff;
+    padding: 18px 10px;
+    width: 100%;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    border: 1px solid #000;
+    min-width: 220px;
+    width: 100%;
+
+}
